@@ -1,7 +1,6 @@
 package JavaForm;
 
 import javax.swing.*;
-import javax.swing.plaf.basic.BasicBorders;
 import java.awt.*;
 
 public class SecondFrame {
@@ -44,7 +43,7 @@ public class SecondFrame {
         con.add(pf);
 
 //        creating button
-        JButton btn= new JButton(new ImageIcon("JavaForm/submit-document-icon.png"));
+        JButton btn= new JButton(new ImageIcon("JavaForm/icons/submit-document-icon.png"));
         btn.setBounds(300,350,50,50);
 //        btn.setText("Submit");
 //        btn.setBackground(Color.GREEN);

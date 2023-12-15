@@ -17,7 +17,7 @@ public class FirstFrame {
         container.setBackground(new Color(50, 13, 109));
 
 //        Icon properties
-        String imgPath = "JavaForm/dog.png";
+        String imgPath = "JavaForm/icons/dog.png";
         ImageIcon icon = new ImageIcon(imgPath);
 
 //        font properties
